@@ -1,7 +1,7 @@
 streamlit
 pymongo
 folium
-st_folium
+streamlit-folium
 geopandas
 matplotlib
 numpy
