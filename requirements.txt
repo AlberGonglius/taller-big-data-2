@@ -1,0 +1,10 @@
+streamlit
+pymongo
+folium
+st_folium
+geopandas
+matplotlib
+numpy
+pandas
+mapclassify
+shapely
